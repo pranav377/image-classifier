@@ -21,6 +21,7 @@ data-->
     banana-->
         (images realated to banana)
 ```
+![alt text](https://drive.google.com/file/d/1RVZXutlC3WwjSJYja_yzqOupS1auh_Sl/view "example_data")
 here "data" is the main folder, "apple" and "banana" are the label folders which have their corresponding images related to them.
 
 [NOTE]: You can create as many label folders as you want but they should have their corresponding images.
